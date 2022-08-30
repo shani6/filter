@@ -1,3 +1,4 @@
 brashstudiocrucial.com
 rebrand.ly
 hassets.sb-cd.com/static/mobile/gen/*
+##.banner+*

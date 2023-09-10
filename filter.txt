@@ -18,3 +18,5 @@ cyad?.nate.com
 ##div[class*="clipxx"]
 ##div[id*="mdnw-appInstallPopup-container"]
 ##div[id*="mdnw-appNoticePopup-container"]
+
+twidouga.net###container > div.item.item_w360:nth-child(5) > a
